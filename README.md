@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NickJanes
-- 👀 I’m interested in gaming, backend web dev, AI, crypto, and pretty much all things software related
-- 🌱 I’m currently learning about smart contracts, solidity and the ethereum network.
-- 💞️ I’m looking to collaborate on projects in java, python(especially with django), and C#
+- 👋 Hi, I’m Nick Janes.
+- 👀 I’m interested in gaming, backend dev, AI, crypto, and pretty much all things software related
+- 🎓 I’m currently finishing my bachelor's of Computer Science at the University of California, Santa Cruz
+- 💞️ I’m looking to collaborate primarily on projects in java, python, and C#
 - 📫 How to reach me: You can contact me @ nickjanes1998@gmail.com
 
 <!---
