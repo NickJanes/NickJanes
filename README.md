@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Nick Janes.
-- 👀 I’m interested in gaming, backend dev, AI, crypto, and pretty much all things software related
-- 🎓 I’m currently finishing my bachelor's of Computer Science at the University of California, Santa Cruz
-- 💞️ I’m looking to collaborate primarily on projects in java, python, and C#
-- 📫 How to reach me: You can contact me @ nickjanes1998@gmail.com
+Hi, I'm Nick Janes! I'm a software developer with a passion for creating innovative and user-friendly solutions. I love learning new technologies and collaborating with others to build exciting projects.
 
-<!---
-NickJanes/NickJanes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have experience in AI, networking, and game dev, and have worked on a variety of projects, including a Connect 4 AI, Twitch TV Integrated games, http server with socket programming, a video game review site and more. I'm always open to new challenges and opportunities, and I'm excited to share my knowledge and skills with the community.
+
+Feel free to check out my GitHub profile and my projects, and don't hesitate to reach out if you have any questions or if you want to collaborate on something interesting. I'm looking forward to connecting with you!
