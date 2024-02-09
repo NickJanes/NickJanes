@@ -1,7 +1,8 @@
-Hi, I'm Nick Janes! I'm a software developer with a passion for creating innovative and user-friendly solutions. I love learning new technologies and collaborating with others to build exciting projects.
+Hi, I'm Nick Janes! A dedicated back end developer with a passion for building unique solutions with technology. I've built tons of fun projects across a plethora of domains such as web dev, game dev, computer networking, AI and more. I was a previous intern as a full stack engineer for a company named Odoo, where I built applications for an open source ERP system.
 
-I previously worked as a Full Stack Engineer Intern for Odoo, an open source ERP system, and am actively seeking new learning opportunities.
+I thrive on curiosity and am always seeking to satiate it through learning and building.
 
-I have experience in full stack web development, AI, networking, and game dev, and have worked on a variety of projects, including a Connect 4 AI, Twitch TV Integrated games, http server with socket programming, a video game review site and more. I'm always open to new challenges and opportunities, and I'm excited to share my knowledge and skills with the community.
+I would love it if you would reach out to me, even if just to say hello:
+nickjanes1998@gmail.com
 
-Feel free to check out my GitHub profile and my projects, and don't hesitate to reach out if you have any questions or if you want to collaborate on something interesting. I'm looking forward to connecting with you!
+I respond uber quick on discord to nickj98.
