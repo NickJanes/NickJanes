@@ -1,8 +1,9 @@
 ## Hi, I'm Nick Janes!
-I'm a dedicated back end developer with a passion for building unique solutions with technology. I've built tons of fun projects across a plethora of domains such as web dev, game dev, computer networking, AI and more. I thrive on curiosity and am always seeking to satiate it through learning and building. Shoot me an email and say hello!
+I'm a dedicated software engineer with a passion for building unique solutions with technology. I've built tons of fun projects across a plethora of domains such as web dev, game dev, computer networking, AI and more. I'm very curios and am always seeking new opportunities to learn and build. Shoot me an email and say hello!
 nickjanes1998@gmail.com
 
 ## Experience
+- iD Tech Instructor (Summer 2024) | AI, VR Game Dev with Unity, Game Dev with Unreal Engine
 - Full Stack Engineer Intern (Summer 2023) | Odoo Inc
 
 ## Technologies
